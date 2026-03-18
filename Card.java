@@ -1,7 +1,4 @@
-// Matthew Reynolds
-// 4/23/2025
-// Class: Comp 167 Section: 003
-// Description: implement the matching game
+
 
 
 import javafx.scene.image.Image;
